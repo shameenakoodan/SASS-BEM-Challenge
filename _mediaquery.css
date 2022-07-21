@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px) {
+  .book-now {
+    width: 25%;
+    text-align: center;
+    margin: 10px;
+    padding: 18px;
+  }
+
+  .more-info {
+    border: 1px solid black;
+    width: 25%;
+    margin: 10px;
+    padding: 18px;
+    text-align: center;
+  }
+}
